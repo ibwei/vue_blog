@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-16@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="B-发现" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B-发现-02" transform="translate(-230.000000, -476.000000)">
+            <g id="icon-16" transform="translate(230.000000, 476.000000)">
+                <g id="icon-13" opacity="0.800000012" fill="#EC8F4C">
+                    <rect id="Rectangle-3-Copy-6" x="0" y="0" width="36" height="36" rx="4"></rect>
+                </g>
+                <path d="M8.33333333,18.5 L15,12 L11.6666667,12 L5,18.5 L11.6666667,25 L15,25 L8.33333333,18.5 Z M18.15625,25 L21,12 L18.375,12 L15.53125,25 L18.15625,25 Z M24.3333333,12 L31,18.5 L24.3333333,25 L21,25 L27.6666667,18.5 L21,12 L24.3333333,12 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
