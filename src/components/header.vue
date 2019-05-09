@@ -29,11 +29,9 @@
 					</transition>
 
 				<ul class="menu">
-
 					<li v-for="item in menus" class="menu-list">
 						<router-link :to="item.url">{{item.name}}</router-link>
 					</li>
-
 					<li class="menu-list">
 						<router-link to="/write">
 							<Icon type="ios-compose-outline" class="write"></Icon>
@@ -407,6 +405,9 @@
 					cursor: auto;
 					font-family: 'font1', "microsoft yahei";
 				}
+			}
+			.rightarea{
+				padding-right: 100px;
 			}
 			.menu {
 				display: inline-block;

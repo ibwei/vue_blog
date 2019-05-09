@@ -6,7 +6,7 @@
 			</div>
 			<div class="button-group">
 				<router-link to='/blog' class="button active">浏览社区</router-link>
-				<a href="https://github.com/ibwei/vue" target="_blank" class="button">Build by Vue.js</a>
+				<a href="https://github.com/ibwei/vue_blog" target="_blank" class="button">Build by Vue.js</a>
 			</div>
 		</div>
 		<div class="carousel-wrap">
